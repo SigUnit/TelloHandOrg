@@ -1,0 +1,6 @@
+ConfigArgParse
+djitellopy
+numpy
+opencv_python
+tensorflow
+mediapipe
